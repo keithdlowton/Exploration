@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673968312150429419/500e30c0bfbc4b69aa631ec03b4997f2/artifacts
+end_time: 1719826287282
+entry_point_name: ''
+experiment_id: '673968312150429419'
+lifecycle_stage: active
+run_id: 500e30c0bfbc4b69aa631ec03b4997f2
+run_name: powerful-fish-976
+run_uuid: 500e30c0bfbc4b69aa631ec03b4997f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719826244952
+status: 3
+tags: []
+user_id: keithlowton

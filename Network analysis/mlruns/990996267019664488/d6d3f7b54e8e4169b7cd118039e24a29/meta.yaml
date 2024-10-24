@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/990996267019664488/d6d3f7b54e8e4169b7cd118039e24a29/artifacts
+end_time: 1719930947548
+entry_point_name: ''
+experiment_id: '990996267019664488'
+lifecycle_stage: active
+run_id: d6d3f7b54e8e4169b7cd118039e24a29
+run_name: overjoyed-wolf-432
+run_uuid: d6d3f7b54e8e4169b7cd118039e24a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930924646
+status: 3
+tags: []
+user_id: keithlowton

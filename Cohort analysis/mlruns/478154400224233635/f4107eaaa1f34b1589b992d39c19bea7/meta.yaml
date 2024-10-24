@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/478154400224233635/f4107eaaa1f34b1589b992d39c19bea7/artifacts
+end_time: 1721229180768
+entry_point_name: ''
+experiment_id: '478154400224233635'
+lifecycle_stage: active
+run_id: f4107eaaa1f34b1589b992d39c19bea7
+run_name: mysterious-ant-570
+run_uuid: f4107eaaa1f34b1589b992d39c19bea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229171300
+status: 3
+tags: []
+user_id: keithlowton

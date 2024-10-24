@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/963871869513884255/ed1eb214280742bfbe0e041bc8e1e4ad/artifacts
+end_time: 1719931155872
+entry_point_name: ''
+experiment_id: '963871869513884255'
+lifecycle_stage: active
+run_id: ed1eb214280742bfbe0e041bc8e1e4ad
+run_name: monumental-boar-608
+run_uuid: ed1eb214280742bfbe0e041bc8e1e4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931153635
+status: 3
+tags: []
+user_id: keithlowton

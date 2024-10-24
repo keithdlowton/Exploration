@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498610196312961030/d66e462e305540f6aac285516de6ea4e/artifacts
+end_time: 1721573028472
+entry_point_name: ''
+experiment_id: '498610196312961030'
+lifecycle_stage: active
+run_id: d66e462e305540f6aac285516de6ea4e
+run_name: inquisitive-eel-655
+run_uuid: d66e462e305540f6aac285516de6ea4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573018838
+status: 3
+tags: []
+user_id: keithlowton

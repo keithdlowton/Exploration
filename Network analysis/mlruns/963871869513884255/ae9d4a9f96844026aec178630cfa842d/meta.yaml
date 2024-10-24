@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/963871869513884255/ae9d4a9f96844026aec178630cfa842d/artifacts
+end_time: 1719931157198
+entry_point_name: ''
+experiment_id: '963871869513884255'
+lifecycle_stage: active
+run_id: ae9d4a9f96844026aec178630cfa842d
+run_name: polite-mule-371
+run_uuid: ae9d4a9f96844026aec178630cfa842d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931155968
+status: 3
+tags: []
+user_id: keithlowton

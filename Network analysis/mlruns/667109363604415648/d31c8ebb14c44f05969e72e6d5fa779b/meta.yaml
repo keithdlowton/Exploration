@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/667109363604415648/d31c8ebb14c44f05969e72e6d5fa779b/artifacts
+end_time: 1719835018830
+entry_point_name: ''
+experiment_id: '667109363604415648'
+lifecycle_stage: active
+run_id: d31c8ebb14c44f05969e72e6d5fa779b
+run_name: indecisive-tern-956
+run_uuid: d31c8ebb14c44f05969e72e6d5fa779b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719834918852
+status: 3
+tags: []
+user_id: keithlowton

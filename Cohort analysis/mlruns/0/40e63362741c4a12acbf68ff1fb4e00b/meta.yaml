@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/40e63362741c4a12acbf68ff1fb4e00b/artifacts
+end_time: 1721648742452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40e63362741c4a12acbf68ff1fb4e00b
+run_name: colorful-flea-975
+run_uuid: 40e63362741c4a12acbf68ff1fb4e00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721648742236
+status: 4
+tags: []
+user_id: keithlowton

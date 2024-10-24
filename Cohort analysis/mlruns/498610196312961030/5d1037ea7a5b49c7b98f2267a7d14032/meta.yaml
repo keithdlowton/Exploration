@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498610196312961030/5d1037ea7a5b49c7b98f2267a7d14032/artifacts
+end_time: 1721573002405
+entry_point_name: ''
+experiment_id: '498610196312961030'
+lifecycle_stage: active
+run_id: 5d1037ea7a5b49c7b98f2267a7d14032
+run_name: abundant-shark-243
+run_uuid: 5d1037ea7a5b49c7b98f2267a7d14032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721572995841
+status: 3
+tags: []
+user_id: keithlowton

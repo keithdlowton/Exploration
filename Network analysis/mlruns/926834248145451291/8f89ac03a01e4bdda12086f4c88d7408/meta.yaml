@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/8f89ac03a01e4bdda12086f4c88d7408/artifacts
+end_time: 1719931013282
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: 8f89ac03a01e4bdda12086f4c88d7408
+run_name: bemused-hare-146
+run_uuid: 8f89ac03a01e4bdda12086f4c88d7408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931011960
+status: 3
+tags: []
+user_id: keithlowton

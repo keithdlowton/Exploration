@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/135581115394555792/a11c1a57dd2e4398bd61f0001d160f1e/artifacts
+end_time: 1719931511315
+entry_point_name: ''
+experiment_id: '135581115394555792'
+lifecycle_stage: active
+run_id: a11c1a57dd2e4398bd61f0001d160f1e
+run_name: gaudy-grouse-532
+run_uuid: a11c1a57dd2e4398bd61f0001d160f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931509749
+status: 3
+tags: []
+user_id: keithlowton

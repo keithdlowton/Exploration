@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/478154400224233635/99616d0b2330491aa2ff728b3a3ab838/artifacts
+end_time: 1721229257729
+entry_point_name: ''
+experiment_id: '478154400224233635'
+lifecycle_stage: active
+run_id: 99616d0b2330491aa2ff728b3a3ab838
+run_name: dazzling-shad-883
+run_uuid: 99616d0b2330491aa2ff728b3a3ab838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229248241
+status: 3
+tags: []
+user_id: keithlowton

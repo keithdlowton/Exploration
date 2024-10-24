@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/667109363604415648/7cf1190d2ddb4006b0f8cf8ff922ebba/artifacts
+end_time: 1719834928971
+entry_point_name: ''
+experiment_id: '667109363604415648'
+lifecycle_stage: active
+run_id: 7cf1190d2ddb4006b0f8cf8ff922ebba
+run_name: upset-bear-535
+run_uuid: 7cf1190d2ddb4006b0f8cf8ff922ebba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719834927811
+status: 3
+tags: []
+user_id: keithlowton

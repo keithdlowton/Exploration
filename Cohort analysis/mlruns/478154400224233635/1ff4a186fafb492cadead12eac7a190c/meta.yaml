@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/478154400224233635/1ff4a186fafb492cadead12eac7a190c/artifacts
+end_time: 1721229209972
+entry_point_name: ''
+experiment_id: '478154400224233635'
+lifecycle_stage: active
+run_id: 1ff4a186fafb492cadead12eac7a190c
+run_name: calm-chimp-965
+run_uuid: 1ff4a186fafb492cadead12eac7a190c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229200565
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725399837639655209/e9d98ad9ce0f492cb3550281b326b12a/artifacts
+end_time: 1721573293334
+entry_point_name: ''
+experiment_id: '725399837639655209'
+lifecycle_stage: active
+run_id: e9d98ad9ce0f492cb3550281b326b12a
+run_name: placid-owl-71
+run_uuid: e9d98ad9ce0f492cb3550281b326b12a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573286564
+status: 3
+tags: []
+user_id: keithlowton

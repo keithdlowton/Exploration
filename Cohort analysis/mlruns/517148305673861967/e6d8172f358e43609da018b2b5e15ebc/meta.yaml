@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/517148305673861967/e6d8172f358e43609da018b2b5e15ebc/artifacts
+end_time: 1721574193402
+entry_point_name: ''
+experiment_id: '517148305673861967'
+lifecycle_stage: active
+run_id: e6d8172f358e43609da018b2b5e15ebc
+run_name: debonair-rat-758
+run_uuid: e6d8172f358e43609da018b2b5e15ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721574179031
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108642278771681194/d435a0cb884d46198115eb158917bee3/artifacts
+end_time: 1719836916857
+entry_point_name: ''
+experiment_id: '108642278771681194'
+lifecycle_stage: active
+run_id: d435a0cb884d46198115eb158917bee3
+run_name: redolent-zebra-476
+run_uuid: d435a0cb884d46198115eb158917bee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719836915580
+status: 3
+tags: []
+user_id: keithlowton

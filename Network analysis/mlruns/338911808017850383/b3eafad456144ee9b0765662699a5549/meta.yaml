@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/338911808017850383/b3eafad456144ee9b0765662699a5549/artifacts
+end_time: 1719828143806
+entry_point_name: ''
+experiment_id: '338911808017850383'
+lifecycle_stage: active
+run_id: b3eafad456144ee9b0765662699a5549
+run_name: luminous-chimp-130
+run_uuid: b3eafad456144ee9b0765662699a5549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719828142300
+status: 3
+tags: []
+user_id: keithlowton

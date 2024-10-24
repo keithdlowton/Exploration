@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/faafb062cbf2445b8f9a0cbcf8cb9fd2/artifacts
+end_time: 1719931010505
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: faafb062cbf2445b8f9a0cbcf8cb9fd2
+run_name: capable-boar-522
+run_uuid: faafb062cbf2445b8f9a0cbcf8cb9fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931009459
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/338911808017850383/47ce45cd2e924c84ab5d7cf9724e3713/artifacts
+end_time: 1719828138914
+entry_point_name: ''
+experiment_id: '338911808017850383'
+lifecycle_stage: active
+run_id: 47ce45cd2e924c84ab5d7cf9724e3713
+run_name: smiling-hawk-100
+run_uuid: 47ce45cd2e924c84ab5d7cf9724e3713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719828137674
+status: 3
+tags: []
+user_id: keithlowton

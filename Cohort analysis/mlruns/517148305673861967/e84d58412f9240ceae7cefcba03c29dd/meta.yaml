@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/517148305673861967/e84d58412f9240ceae7cefcba03c29dd/artifacts
+end_time: 1721574261654
+entry_point_name: ''
+experiment_id: '517148305673861967'
+lifecycle_stage: active
+run_id: e84d58412f9240ceae7cefcba03c29dd
+run_name: judicious-goat-102
+run_uuid: e84d58412f9240ceae7cefcba03c29dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721574251681
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498610196312961030/c1edc49691c441e9a21388c6cfd11240/artifacts
+end_time: 1721573057845
+entry_point_name: ''
+experiment_id: '498610196312961030'
+lifecycle_stage: active
+run_id: c1edc49691c441e9a21388c6cfd11240
+run_name: mercurial-koi-906
+run_uuid: c1edc49691c441e9a21388c6cfd11240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573048328
+status: 3
+tags: []
+user_id: keithlowton

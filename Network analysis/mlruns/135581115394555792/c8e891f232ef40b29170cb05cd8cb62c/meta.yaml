@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/135581115394555792/c8e891f232ef40b29170cb05cd8cb62c/artifacts
+end_time: 1719931509731
+entry_point_name: ''
+experiment_id: '135581115394555792'
+lifecycle_stage: active
+run_id: c8e891f232ef40b29170cb05cd8cb62c
+run_name: mysterious-shoat-289
+run_uuid: c8e891f232ef40b29170cb05cd8cb62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931508193
+status: 3
+tags: []
+user_id: keithlowton

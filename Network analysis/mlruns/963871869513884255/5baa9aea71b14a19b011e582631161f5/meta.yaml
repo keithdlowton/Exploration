@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/963871869513884255/5baa9aea71b14a19b011e582631161f5/artifacts
+end_time: 1719931161087
+entry_point_name: ''
+experiment_id: '963871869513884255'
+lifecycle_stage: active
+run_id: 5baa9aea71b14a19b011e582631161f5
+run_name: smiling-doe-176
+run_uuid: 5baa9aea71b14a19b011e582631161f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931159936
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568019655530836666/ab0ec81e95c34a2f9ebc26ab4344714d/artifacts
+end_time: 1719836325972
+entry_point_name: ''
+experiment_id: '568019655530836666'
+lifecycle_stage: active
+run_id: ab0ec81e95c34a2f9ebc26ab4344714d
+run_name: adorable-jay-950
+run_uuid: ab0ec81e95c34a2f9ebc26ab4344714d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835057943
+status: 3
+tags: []
+user_id: keithlowton

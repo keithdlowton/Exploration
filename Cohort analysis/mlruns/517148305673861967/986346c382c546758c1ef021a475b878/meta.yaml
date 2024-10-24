@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/517148305673861967/986346c382c546758c1ef021a475b878/artifacts
+end_time: 1721574157604
+entry_point_name: ''
+experiment_id: '517148305673861967'
+lifecycle_stage: active
+run_id: 986346c382c546758c1ef021a475b878
+run_name: amazing-hen-168
+run_uuid: 986346c382c546758c1ef021a475b878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721574143913
+status: 3
+tags: []
+user_id: keithlowton

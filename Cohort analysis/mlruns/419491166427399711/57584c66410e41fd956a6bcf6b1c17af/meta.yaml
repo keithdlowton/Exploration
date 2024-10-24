@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/419491166427399711/57584c66410e41fd956a6bcf6b1c17af/artifacts
+end_time: 1721570867428
+entry_point_name: ''
+experiment_id: '419491166427399711'
+lifecycle_stage: active
+run_id: 57584c66410e41fd956a6bcf6b1c17af
+run_name: thundering-fawn-850
+run_uuid: 57584c66410e41fd956a6bcf6b1c17af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721570862836
+status: 3
+tags: []
+user_id: keithlowton

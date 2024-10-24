@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/293562957676752788/d6ebcddd83174906b0c261847b5bb834/artifacts
+end_time: 1721230125052
+entry_point_name: ''
+experiment_id: '293562957676752788'
+lifecycle_stage: active
+run_id: d6ebcddd83174906b0c261847b5bb834
+run_name: big-shark-213
+run_uuid: d6ebcddd83174906b0c261847b5bb834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721230122250
+status: 3
+tags: []
+user_id: keithlowton

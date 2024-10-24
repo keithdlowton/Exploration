@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/419491166427399711/3d7ba77ba5864b41b2cbcfd1cb793dbd/artifacts
+end_time: 1721570840321
+entry_point_name: ''
+experiment_id: '419491166427399711'
+lifecycle_stage: active
+run_id: 3d7ba77ba5864b41b2cbcfd1cb793dbd
+run_name: exultant-chimp-289
+run_uuid: 3d7ba77ba5864b41b2cbcfd1cb793dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721570834216
+status: 3
+tags: []
+user_id: keithlowton

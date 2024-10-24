@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/357255694998054431/e6695e25df0e4fa7ae4e14d7528f2b77/artifacts
+end_time: 1721569995322
+entry_point_name: ''
+experiment_id: '357255694998054431'
+lifecycle_stage: active
+run_id: e6695e25df0e4fa7ae4e14d7528f2b77
+run_name: calm-goat-313
+run_uuid: e6695e25df0e4fa7ae4e14d7528f2b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721569987067
+status: 3
+tags: []
+user_id: keithlowton

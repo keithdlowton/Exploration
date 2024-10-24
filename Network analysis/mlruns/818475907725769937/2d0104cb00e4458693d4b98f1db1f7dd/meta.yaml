@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818475907725769937/2d0104cb00e4458693d4b98f1db1f7dd/artifacts
+end_time: 1719931640289
+entry_point_name: ''
+experiment_id: '818475907725769937'
+lifecycle_stage: active
+run_id: 2d0104cb00e4458693d4b98f1db1f7dd
+run_name: zealous-rat-414
+run_uuid: 2d0104cb00e4458693d4b98f1db1f7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931638661
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426444340598822777/12c244289cf4430f90fb05dbaa34f6b7/artifacts
+end_time: 1721572744815
+entry_point_name: ''
+experiment_id: '426444340598822777'
+lifecycle_stage: active
+run_id: 12c244289cf4430f90fb05dbaa34f6b7
+run_name: fortunate-conch-71
+run_uuid: 12c244289cf4430f90fb05dbaa34f6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721572737024
+status: 3
+tags: []
+user_id: keithlowton

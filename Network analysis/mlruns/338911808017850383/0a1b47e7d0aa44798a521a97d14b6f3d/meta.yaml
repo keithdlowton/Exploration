@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/338911808017850383/0a1b47e7d0aa44798a521a97d14b6f3d/artifacts
+end_time: 1719828133990
+entry_point_name: ''
+experiment_id: '338911808017850383'
+lifecycle_stage: active
+run_id: 0a1b47e7d0aa44798a521a97d14b6f3d
+run_name: auspicious-jay-0
+run_uuid: 0a1b47e7d0aa44798a521a97d14b6f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719828132478
+status: 3
+tags: []
+user_id: keithlowton

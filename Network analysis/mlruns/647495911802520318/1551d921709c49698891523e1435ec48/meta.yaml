@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647495911802520318/1551d921709c49698891523e1435ec48/artifacts
+end_time: 1719930752731
+entry_point_name: ''
+experiment_id: '647495911802520318'
+lifecycle_stage: active
+run_id: 1551d921709c49698891523e1435ec48
+run_name: powerful-calf-446
+run_uuid: 1551d921709c49698891523e1435ec48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930751729
+status: 3
+tags: []
+user_id: keithlowton

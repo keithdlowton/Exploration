@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/701305851651803719/cbe6eaf6fe624204bc93c037d2c38305/artifacts
+end_time: 1721233334177
+entry_point_name: ''
+experiment_id: '701305851651803719'
+lifecycle_stage: active
+run_id: cbe6eaf6fe624204bc93c037d2c38305
+run_name: thoughtful-bug-149
+run_uuid: cbe6eaf6fe624204bc93c037d2c38305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721233246608
+status: 3
+tags: []
+user_id: keithlowton

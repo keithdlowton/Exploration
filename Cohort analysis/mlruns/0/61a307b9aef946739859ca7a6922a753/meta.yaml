@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/61a307b9aef946739859ca7a6922a753/artifacts
+end_time: 1721649021382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61a307b9aef946739859ca7a6922a753
+run_name: lyrical-fowl-487
+run_uuid: 61a307b9aef946739859ca7a6922a753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721649018071
+status: 3
+tags: []
+user_id: keithlowton
