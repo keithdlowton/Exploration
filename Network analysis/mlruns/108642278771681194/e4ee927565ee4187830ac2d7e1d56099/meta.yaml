@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108642278771681194/e4ee927565ee4187830ac2d7e1d56099/artifacts
+end_time: 1719836918249
+entry_point_name: ''
+experiment_id: '108642278771681194'
+lifecycle_stage: active
+run_id: e4ee927565ee4187830ac2d7e1d56099
+run_name: thundering-goat-665
+run_uuid: e4ee927565ee4187830ac2d7e1d56099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719836916881
+status: 3
+tags: []
+user_id: keithlowton

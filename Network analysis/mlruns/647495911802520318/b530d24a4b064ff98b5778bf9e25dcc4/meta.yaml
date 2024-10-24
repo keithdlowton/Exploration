@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647495911802520318/b530d24a4b064ff98b5778bf9e25dcc4/artifacts
+end_time: 1719930760450
+entry_point_name: ''
+experiment_id: '647495911802520318'
+lifecycle_stage: active
+run_id: b530d24a4b064ff98b5778bf9e25dcc4
+run_name: able-shrew-288
+run_uuid: b530d24a4b064ff98b5778bf9e25dcc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930746380
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/517148305673861967/06f9cd4fa396448aae8c160a23a98f1c/artifacts
+end_time: 1721574168806
+entry_point_name: ''
+experiment_id: '517148305673861967'
+lifecycle_stage: active
+run_id: 06f9cd4fa396448aae8c160a23a98f1c
+run_name: abundant-quail-581
+run_uuid: 06f9cd4fa396448aae8c160a23a98f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721574157649
+status: 3
+tags: []
+user_id: keithlowton

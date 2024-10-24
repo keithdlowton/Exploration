@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/13fd0e2d85104594b26b93c94719b927/artifacts
+end_time: 1719931014807
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: 13fd0e2d85104594b26b93c94719b927
+run_name: orderly-stork-645
+run_uuid: 13fd0e2d85104594b26b93c94719b927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931013307
+status: 3
+tags: []
+user_id: keithlowton

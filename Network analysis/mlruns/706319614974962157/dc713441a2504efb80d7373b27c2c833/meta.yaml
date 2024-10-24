@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/706319614974962157/dc713441a2504efb80d7373b27c2c833/artifacts
+end_time: 1719829090049
+entry_point_name: ''
+experiment_id: '706319614974962157'
+lifecycle_stage: active
+run_id: dc713441a2504efb80d7373b27c2c833
+run_name: enchanting-lark-244
+run_uuid: dc713441a2504efb80d7373b27c2c833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719829015806
+status: 4
+tags: []
+user_id: keithlowton

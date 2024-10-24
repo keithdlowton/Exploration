@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/478154400224233635/ef82889f39b24033bc895a408c04652e/artifacts
+end_time: 1721229248226
+entry_point_name: ''
+experiment_id: '478154400224233635'
+lifecycle_stage: active
+run_id: ef82889f39b24033bc895a408c04652e
+run_name: funny-penguin-547
+run_uuid: ef82889f39b24033bc895a408c04652e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229238505
+status: 3
+tags: []
+user_id: keithlowton

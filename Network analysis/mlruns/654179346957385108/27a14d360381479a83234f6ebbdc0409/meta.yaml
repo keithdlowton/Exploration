@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654179346957385108/27a14d360381479a83234f6ebbdc0409/artifacts
+end_time: 1719930153551
+entry_point_name: ''
+experiment_id: '654179346957385108'
+lifecycle_stage: active
+run_id: 27a14d360381479a83234f6ebbdc0409
+run_name: abrasive-vole-512
+run_uuid: 27a14d360381479a83234f6ebbdc0409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930084630
+status: 3
+tags: []
+user_id: keithlowton

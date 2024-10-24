@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/701305851651803719/94818f6e3572431cb1f360135b6453c6/artifacts
+end_time: 1721233713861
+entry_point_name: ''
+experiment_id: '701305851651803719'
+lifecycle_stage: active
+run_id: 94818f6e3572431cb1f360135b6453c6
+run_name: bright-hen-223
+run_uuid: 94818f6e3572431cb1f360135b6453c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721233614601
+status: 3
+tags: []
+user_id: keithlowton

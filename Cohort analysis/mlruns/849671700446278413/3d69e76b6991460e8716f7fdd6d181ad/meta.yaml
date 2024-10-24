@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/849671700446278413/3d69e76b6991460e8716f7fdd6d181ad/artifacts
+end_time: 1721571091331
+entry_point_name: ''
+experiment_id: '849671700446278413'
+lifecycle_stage: active
+run_id: 3d69e76b6991460e8716f7fdd6d181ad
+run_name: sincere-stag-353
+run_uuid: 3d69e76b6991460e8716f7fdd6d181ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721571083941
+status: 3
+tags: []
+user_id: keithlowton

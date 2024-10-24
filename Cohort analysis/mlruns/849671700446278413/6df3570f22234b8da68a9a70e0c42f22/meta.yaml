@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/849671700446278413/6df3570f22234b8da68a9a70e0c42f22/artifacts
+end_time: 1721571098709
+entry_point_name: ''
+experiment_id: '849671700446278413'
+lifecycle_stage: active
+run_id: 6df3570f22234b8da68a9a70e0c42f22
+run_name: peaceful-colt-436
+run_uuid: 6df3570f22234b8da68a9a70e0c42f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721571091361
+status: 3
+tags: []
+user_id: keithlowton

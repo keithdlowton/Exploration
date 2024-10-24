@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/963871869513884255/1d57d5a1b6414db0a65ce20214716955/artifacts
+end_time: 1719931162462
+entry_point_name: ''
+experiment_id: '963871869513884255'
+lifecycle_stage: active
+run_id: 1d57d5a1b6414db0a65ce20214716955
+run_name: dapper-skink-30
+run_uuid: 1d57d5a1b6414db0a65ce20214716955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931161191
+status: 3
+tags: []
+user_id: keithlowton

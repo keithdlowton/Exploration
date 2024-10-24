@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/419491166427399711/bde7a473417d44bb926d9b303f2667b1/artifacts
+end_time: 1721570869269
+entry_point_name: ''
+experiment_id: '419491166427399711'
+lifecycle_stage: active
+run_id: bde7a473417d44bb926d9b303f2667b1
+run_name: rogue-crow-310
+run_uuid: bde7a473417d44bb926d9b303f2667b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721570867446
+status: 3
+tags: []
+user_id: keithlowton

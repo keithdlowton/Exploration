@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/a2bc2413a070498ba73d4e30029bb480/artifacts
+end_time: 1719931008079
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: a2bc2413a070498ba73d4e30029bb480
+run_name: capricious-ox-19
+run_uuid: a2bc2413a070498ba73d4e30029bb480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931006634
+status: 3
+tags: []
+user_id: keithlowton

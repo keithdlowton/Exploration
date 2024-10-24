@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647495911802520318/411eb94fc6f64993881b9a52a83c8e72/artifacts
+end_time: 1719930755386
+entry_point_name: ''
+experiment_id: '647495911802520318'
+lifecycle_stage: active
+run_id: 411eb94fc6f64993881b9a52a83c8e72
+run_name: crawling-fowl-981
+run_uuid: 411eb94fc6f64993881b9a52a83c8e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930754118
+status: 3
+tags: []
+user_id: keithlowton

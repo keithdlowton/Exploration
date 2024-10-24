@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/517148305673861967/3e2bf028a4414f56a966cd6c9cb8d3c0/artifacts
+end_time: 1721574207340
+entry_point_name: ''
+experiment_id: '517148305673861967'
+lifecycle_stage: active
+run_id: 3e2bf028a4414f56a966cd6c9cb8d3c0
+run_name: welcoming-bird-287
+run_uuid: 3e2bf028a4414f56a966cd6c9cb8d3c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721574193437
+status: 3
+tags: []
+user_id: keithlowton

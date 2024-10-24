@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/72c7065522ef4f7eaf7ce93a329c6bd8/artifacts
+end_time: 1721648936449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72c7065522ef4f7eaf7ce93a329c6bd8
+run_name: merciful-newt-393
+run_uuid: 72c7065522ef4f7eaf7ce93a329c6bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721648936071
+status: 4
+tags: []
+user_id: keithlowton

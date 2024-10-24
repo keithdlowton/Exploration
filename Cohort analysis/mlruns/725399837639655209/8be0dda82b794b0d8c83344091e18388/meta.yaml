@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725399837639655209/8be0dda82b794b0d8c83344091e18388/artifacts
+end_time: 1721573401207
+entry_point_name: ''
+experiment_id: '725399837639655209'
+lifecycle_stage: active
+run_id: 8be0dda82b794b0d8c83344091e18388
+run_name: beautiful-shad-783
+run_uuid: 8be0dda82b794b0d8c83344091e18388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573243173
+status: 3
+tags: []
+user_id: keithlowton

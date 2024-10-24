@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/692686936747551714/ad5decdd898f4c72a534355f5f94d6dc/artifacts
+end_time: 1719931568371
+entry_point_name: ''
+experiment_id: '692686936747551714'
+lifecycle_stage: active
+run_id: ad5decdd898f4c72a534355f5f94d6dc
+run_name: funny-asp-562
+run_uuid: ad5decdd898f4c72a534355f5f94d6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931566787
+status: 3
+tags: []
+user_id: keithlowton

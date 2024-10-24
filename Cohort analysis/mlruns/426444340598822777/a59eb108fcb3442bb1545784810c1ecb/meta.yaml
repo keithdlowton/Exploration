@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426444340598822777/a59eb108fcb3442bb1545784810c1ecb/artifacts
+end_time: 1721572737010
+entry_point_name: ''
+experiment_id: '426444340598822777'
+lifecycle_stage: active
+run_id: a59eb108fcb3442bb1545784810c1ecb
+run_name: resilient-koi-226
+run_uuid: a59eb108fcb3442bb1545784810c1ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721572728709
+status: 3
+tags: []
+user_id: keithlowton

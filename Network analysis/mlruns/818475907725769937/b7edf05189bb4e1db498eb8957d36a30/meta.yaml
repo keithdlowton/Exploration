@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818475907725769937/b7edf05189bb4e1db498eb8957d36a30/artifacts
+end_time: 1719931646904
+entry_point_name: ''
+experiment_id: '818475907725769937'
+lifecycle_stage: active
+run_id: b7edf05189bb4e1db498eb8957d36a30
+run_name: adventurous-ray-556
+run_uuid: b7edf05189bb4e1db498eb8957d36a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931645310
+status: 3
+tags: []
+user_id: keithlowton

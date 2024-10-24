@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108642278771681194/0565d3606fdd4e0eab87eb94646366f9/artifacts
+end_time: 1719836926350
+entry_point_name: ''
+experiment_id: '108642278771681194'
+lifecycle_stage: active
+run_id: 0565d3606fdd4e0eab87eb94646366f9
+run_name: shivering-donkey-210
+run_uuid: 0565d3606fdd4e0eab87eb94646366f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719836925070
+status: 3
+tags: []
+user_id: keithlowton

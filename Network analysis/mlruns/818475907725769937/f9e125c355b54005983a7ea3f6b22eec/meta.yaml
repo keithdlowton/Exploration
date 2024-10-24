@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818475907725769937/f9e125c355b54005983a7ea3f6b22eec/artifacts
+end_time: 1719931645270
+entry_point_name: ''
+experiment_id: '818475907725769937'
+lifecycle_stage: active
+run_id: f9e125c355b54005983a7ea3f6b22eec
+run_name: unique-squirrel-298
+run_uuid: f9e125c355b54005983a7ea3f6b22eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931643766
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/667109363604415648/f3aea50d9c66415a9aa7de8ccf618cce/artifacts
+end_time: 1719834920807
+entry_point_name: ''
+experiment_id: '667109363604415648'
+lifecycle_stage: active
+run_id: f3aea50d9c66415a9aa7de8ccf618cce
+run_name: stylish-chimp-731
+run_uuid: f3aea50d9c66415a9aa7de8ccf618cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719834920020
+status: 3
+tags: []
+user_id: keithlowton

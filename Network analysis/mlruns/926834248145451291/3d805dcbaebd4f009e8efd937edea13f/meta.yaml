@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/3d805dcbaebd4f009e8efd937edea13f/artifacts
+end_time: 1719931017246
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: 3d805dcbaebd4f009e8efd937edea13f
+run_name: hilarious-fowl-991
+run_uuid: 3d805dcbaebd4f009e8efd937edea13f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931015923
+status: 3
+tags: []
+user_id: keithlowton

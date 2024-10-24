@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/135581115394555792/027cdc24eef5487d998d053fd2777c1f/artifacts
+end_time: 1719931506544
+entry_point_name: ''
+experiment_id: '135581115394555792'
+lifecycle_stage: active
+run_id: 027cdc24eef5487d998d053fd2777c1f
+run_name: indecisive-loon-503
+run_uuid: 027cdc24eef5487d998d053fd2777c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931505340
+status: 3
+tags: []
+user_id: keithlowton

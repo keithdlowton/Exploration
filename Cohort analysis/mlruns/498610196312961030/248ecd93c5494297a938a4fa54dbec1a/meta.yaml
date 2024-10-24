@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498610196312961030/248ecd93c5494297a938a4fa54dbec1a/artifacts
+end_time: 1721573038343
+entry_point_name: ''
+experiment_id: '498610196312961030'
+lifecycle_stage: active
+run_id: 248ecd93c5494297a938a4fa54dbec1a
+run_name: kindly-toad-910
+run_uuid: 248ecd93c5494297a938a4fa54dbec1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573028489
+status: 3
+tags: []
+user_id: keithlowton

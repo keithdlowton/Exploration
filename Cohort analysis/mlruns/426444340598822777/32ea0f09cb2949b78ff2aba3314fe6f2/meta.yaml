@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426444340598822777/32ea0f09cb2949b78ff2aba3314fe6f2/artifacts
+end_time: 1721572760582
+entry_point_name: ''
+experiment_id: '426444340598822777'
+lifecycle_stage: active
+run_id: 32ea0f09cb2949b78ff2aba3314fe6f2
+run_name: debonair-boar-245
+run_uuid: 32ea0f09cb2949b78ff2aba3314fe6f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721572752607
+status: 3
+tags: []
+user_id: keithlowton

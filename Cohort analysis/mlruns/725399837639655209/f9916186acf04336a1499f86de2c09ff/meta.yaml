@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725399837639655209/f9916186acf04336a1499f86de2c09ff/artifacts
+end_time: 1721573267470
+entry_point_name: ''
+experiment_id: '725399837639655209'
+lifecycle_stage: active
+run_id: f9916186acf04336a1499f86de2c09ff
+run_name: dapper-perch-372
+run_uuid: f9916186acf04336a1499f86de2c09ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721573261713
+status: 3
+tags: []
+user_id: keithlowton

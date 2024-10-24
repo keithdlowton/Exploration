@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647495911802520318/97bf2193dd4d4331a2a300506dea9314/artifacts
+end_time: 1719930754087
+entry_point_name: ''
+experiment_id: '647495911802520318'
+lifecycle_stage: active
+run_id: 97bf2193dd4d4331a2a300506dea9314
+run_name: trusting-snail-254
+run_uuid: 97bf2193dd4d4331a2a300506dea9314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719930752762
+status: 3
+tags: []
+user_id: keithlowton

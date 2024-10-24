@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/419491166427399711/fcbf32471aa94e0c878261148700ef74/artifacts
+end_time: 1721570855231
+entry_point_name: ''
+experiment_id: '419491166427399711'
+lifecycle_stage: active
+run_id: fcbf32471aa94e0c878261148700ef74
+run_name: redolent-doe-468
+run_uuid: fcbf32471aa94e0c878261148700ef74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721570852938
+status: 3
+tags: []
+user_id: keithlowton

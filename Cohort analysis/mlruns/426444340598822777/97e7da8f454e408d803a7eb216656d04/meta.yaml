@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426444340598822777/97e7da8f454e408d803a7eb216656d04/artifacts
+end_time: 1721572705196
+entry_point_name: ''
+experiment_id: '426444340598822777'
+lifecycle_stage: active
+run_id: 97e7da8f454e408d803a7eb216656d04
+run_name: legendary-crane-773
+run_uuid: 97e7da8f454e408d803a7eb216656d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721572697172
+status: 3
+tags: []
+user_id: keithlowton

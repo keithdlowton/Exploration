@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/926834248145451291/3865bff01274430fa84d250ac97dab5c/artifacts
+end_time: 1719931006590
+entry_point_name: ''
+experiment_id: '926834248145451291'
+lifecycle_stage: active
+run_id: 3865bff01274430fa84d250ac97dab5c
+run_name: capable-bass-74
+run_uuid: 3865bff01274430fa84d250ac97dab5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931004767
+status: 3
+tags: []
+user_id: keithlowton

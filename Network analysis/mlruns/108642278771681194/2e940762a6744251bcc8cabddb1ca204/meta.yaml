@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108642278771681194/2e940762a6744251bcc8cabddb1ca204/artifacts
+end_time: 1719836925043
+entry_point_name: ''
+experiment_id: '108642278771681194'
+lifecycle_stage: active
+run_id: 2e940762a6744251bcc8cabddb1ca204
+run_name: beautiful-hen-231
+run_uuid: 2e940762a6744251bcc8cabddb1ca204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719836923821
+status: 3
+tags: []
+user_id: keithlowton

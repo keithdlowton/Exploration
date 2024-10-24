@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/419491166427399711/ab8578fa8fa04b8eb32e13d237845065/artifacts
+end_time: 1721570846047
+entry_point_name: ''
+experiment_id: '419491166427399711'
+lifecycle_stage: active
+run_id: ab8578fa8fa04b8eb32e13d237845065
+run_name: resilient-shark-656
+run_uuid: ab8578fa8fa04b8eb32e13d237845065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721570840348
+status: 3
+tags: []
+user_id: keithlowton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818475907725769937/4e8f7e37f729433a8e20c53253739f2e/artifacts
+end_time: 1719931635475
+entry_point_name: ''
+experiment_id: '818475907725769937'
+lifecycle_stage: active
+run_id: 4e8f7e37f729433a8e20c53253739f2e
+run_name: rare-foal-406
+run_uuid: 4e8f7e37f729433a8e20c53253739f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931634240
+status: 3
+tags: []
+user_id: keithlowton

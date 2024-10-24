@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/135581115394555792/acc45258b16d44e184b939b979f5bd69/artifacts
+end_time: 1719931505302
+entry_point_name: ''
+experiment_id: '135581115394555792'
+lifecycle_stage: active
+run_id: acc45258b16d44e184b939b979f5bd69
+run_name: rumbling-goose-768
+run_uuid: acc45258b16d44e184b939b979f5bd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719931503973
+status: 3
+tags: []
+user_id: keithlowton
